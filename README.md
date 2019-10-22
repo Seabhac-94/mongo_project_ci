@@ -1,0 +1,1 @@
+Small python project using MongoDB Atlas and Python to utilize CRUD.
